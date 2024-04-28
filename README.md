@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sony Kiran Devarapalli</h1>
-<h3 align="center">A passionate Business Analyst from United States</h3>
+<h3 align="center">Detail-Oriented Business Analyst with Proven Track Record of Driving Operational Efficiency and Business Growth </h3>
 <p align="center">As a business analyst, my fascination lies in the transformative power of analytics 🌐 and its profound impact on our lives. From an early age, I recognized the potential of analytics to revolutionize industries and drive innovation. My passion for exploring new tech stacks 💻 and leveraging them to create impactful solutions has only deepened over time. I am committed to harnessing the latest advancements in analytics to drive business growth and address evolving challenges. 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=SonyKiran&label=Profile%20views&color=0e75b6&style=flat" alt="SonyKiran" /> 
