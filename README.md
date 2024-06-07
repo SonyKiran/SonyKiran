@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **devarapallisonykiran@gmail.com**
 
-- 📄 Know about my experiences [my experiences](https://github.com/SonyKiran/Sony-Kiran/blob/main/resume_sony_kiran_devarapalli.pdf)
+- 📄 Know about my experiences [my experiences](https://github.com/SonyKiran/Sony-Kiran/blob/main/resume_sony_kiran_devarapalli.docx)
 
 - ⚡ Fun fact **I think I'm funny**
 
