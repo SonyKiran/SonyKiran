@@ -53,17 +53,17 @@
 
 - 👨‍💻 Business Areas: **Finance, Healthcare and Data Modelling experience**
 
-- 👨‍💻 Tools: **Big data, ETL, BI, ORACLE PL/SQL. IBM Info sphere, Datadog, Actimize, Business Objects, Tableau and Pentaho, MS Access, and Excel**
+- 👨‍💻 Big Data Processing: **Apache Hadoop, Apache Spark, Apache Flink, Apache Hive, Apache HBase**
   
-- 👨‍💻 Databases: **Oracle, SQL Server, MySQL, MS Access, NoSQL Database**
+- 👨‍💻 Databases: **MySQL, PostgreSQL, Oracle, SQL Server, Cassandra, MongoDB, HBase**
   
 - 👨‍💻 Development methodologies: **SDLC, AGILE, SCRUM and Waterfall**
   
 - 👨‍💻 Tools: **Jira, Tableau, Power BI, Selenium**
   
-- 👨‍💻 Cloud: **AWS, GCP**
+- 👨‍💻 Cloud platforms: **AWS (S3, EMR, Redshift, DynamoDB, SQS, Lambda), Google Cloud Platform (BigQuery, Dataflow, Pub/Sub), Microsoft Azure (Data Lake, Cosmos DB)**
   
-- 👨‍💻 Certifications: **Six Sigma Yellow Belt, Google Data Analytics, Agile Scrum**
+- 👨‍💻 Certifications: **Six Sigma Yellow Belt, Google Data Analytics, Agile Scrum, Cisco Data Analytics, Meta Data Analytics**
 <br>
 
 
