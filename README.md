@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sony Kiran Devarapalli</h1>
 <h3 align="center">Detail-Oriented Business Analyst with Proven Track Record of Driving Operational Efficiency and Business Growth </h3>
-<p align="center">As a Business Intelligence Developer, my fascination lies in the transformative power of analytics 🌐 and its profound impact on our lives. From an early age, I recognized the potential of analytics to revolutionize industries and drive innovation. My passion for exploring new tech stacks 💻 and leveraging them to create impactful solutions has only deepened over time. I am committed to harnessing the latest advancements in analytics to drive business growth and address evolving challenges. 🛠️</p>
+<p align="center">As a Data Engineer/Analyst, I am deeply fascinated by the transformative power of data and its profound impact on industries and decision-making. From an early age, I recognized the potential of data to drive innovation and optimize business processes. My passion for exploring new technologies and data tools has only grown stronger, enabling me to craft solutions that extract valuable insights and improve operational efficiency. I am committed to leveraging the latest advancements in data engineering and analytics to empower organizations, fuel business growth, and tackle complex challenges. 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=SonyKiran&label=Profile%20views&color=0e75b6&style=flat" alt="SonyKiran" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="SonyKiran's languages" /> -->
@@ -31,9 +31,9 @@
 
 - 👨‍💻 All of my projects are available at [sony's workspace](https://github.com/SonyKiran/Projects)
 
-- 💬 Ask me about **Power BI, Python, R, Mainframes, Machine Learning and Tableau**
+- 💬 Ask me about **Apache Hadoop, Apache Spark, Apache Flink, Apache Hive, Apache HBase, Apache Kafka, Apache Storm, Apache Samza, Apache Beam, AWS (S3, EMR, Redshift, DynamoDB, SQS, Lambda), Google Cloud Platform (BigQuery, Dataflow, Pub/Sub), Microsoft Azure (Data Lake, Cosmos DB), Apache NiFi, Talend, Informatica, MySQL, PostgreSQL, Oracle, SQL Server, Cassandra, MongoDB, HBase, Amazon Redshift, Google BigQuery, Snowflake, Docker, Kubernetes, Jenkins, Travis CI, GitLab CI, Tableau, Power BI, Looker, and Python, SQL, Java**
 
-- 📫 How to reach me **devarapallisonykiran@gmail.com**
+- 📫 How to reach me **skirandevarapalli@gmail.com**
 
 - 📄 Know about my experiences [my experiences](https://www.linkedin.com/in/sony-kiran/details/experience/)
 
