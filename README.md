@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sony Kiran Devarapalli</h1>
-<h3 align="center">Detail-Oriented Data Engineer/Analyst with Proven Track Record of Driving Operational Efficiency and Business Growth </h3>
+<h3 align="center">Detail-Oriented Data Engineer/Scientist with Proven Track Record of Driving Operational Efficiency and Business Growth </h3>
 <p align="center">As a Data Engineer/Analyst, I am deeply fascinated by the transformative power of data and its profound impact on industries and decision-making. From an early age, I recognized the potential of data to drive innovation and optimize business processes. My passion for exploring new technologies and data tools has only grown stronger, enabling me to craft solutions that extract valuable insights and improve operational efficiency. I am committed to leveraging the latest advancements in data engineering and analytics to empower organizations, fuel business growth, and tackle complex challenges. 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=SonyKiran&label=Profile%20views&color=0e75b6&style=flat" alt="SonyKiran" /> 
