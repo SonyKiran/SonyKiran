@@ -31,7 +31,7 @@
 
 - 👨‍💻 All of my projects are available at [sony's workspace](https://github.com/SonyKiran/Projects)
 
-- 💬 Ask me about **Apache Hadoop, Apache Spark, Apache Flink, Apache Hive, Apache HBase, Apache Kafka, Apache Storm, Apache Samza, Apache Beam, AWS (S3, EMR, Redshift, DynamoDB, SQS, Lambda), Google Cloud Platform (BigQuery, Dataflow, Pub/Sub), Microsoft Azure (Data Lake, Cosmos DB), Apache NiFi, Talend, Informatica, MySQL, PostgreSQL, Oracle, SQL Server, Cassandra, MongoDB, HBase, Amazon Redshift, Google BigQuery, Snowflake, Docker, Kubernetes, Jenkins, Travis CI, GitLab CI, Tableau, Power BI, Looker, and Python, SQL, Java**
+- 💬 Ask me about **SQL, Python, R, Excel, Tableau, Power BI, QuickSight, Alteryx, AWS Glue, Apache Airflow, JIRA, Confluence, Quip, Git, Lucidchart, Visio, AWS, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Jupyter, RStudio, Snowflake, Redshift, BigQuery, MongoDB, PostgreSQL, MySQL, Looker, Qlik, Sisense, SAP BusinessObjects, MicroStrategy, Informatica, KNIME, RapidMiner**
 
 - 📫 How to reach me **skirandevarapalli@gmail.com**
 
