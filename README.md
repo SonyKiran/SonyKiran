@@ -61,7 +61,7 @@
   
 - 👨‍💻 Tools: **Jira, Tableau, Power BI, Selenium**
   
-- 👨‍💻 Cloud platforms: **AWS (S3, EMR, Redshift, DynamoDB, SQS, Lambda), Google Cloud Platform (BigQuery, Dataflow, Pub/Sub), Microsoft Azure (Data Lake, Cosmos DB)**
+- 👨‍💻 Cloud platforms: **AWS (S3, EMR, Redshift, DynamoDB, SQS, Lambda, BedRock) **
   
 - 👨‍💻 Certifications: **Six Sigma Yellow Belt, Google Data Analytics, Agile Scrum, Cisco Data Analytics, Meta Data Analytics**
 <br>
